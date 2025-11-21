@@ -144,7 +144,7 @@ pip install -r requirements.txt
   <tr>
     <td align="center">
       <a href="https://github.com/HarshaVardhan2k04">
-        <img src="https://github.com/HarshaVardhan2k04.png" width="100px;" alt="Harsha"/>
+        <img src="[https://github.com/HarshaVardhan2k04.png](https://avatars.githubusercontent.com/u/145692530?v=4)" width="100px;" alt="Harsha"/>
         <br /><sub><b>Harsha Vardhan</b></sub>
       </a>
     </td>
