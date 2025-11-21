@@ -137,6 +137,7 @@ Achieved accuracy: **90–96%** (varies by dataset)
 ### Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
 ## 👥 Contributors
 
 <table>
