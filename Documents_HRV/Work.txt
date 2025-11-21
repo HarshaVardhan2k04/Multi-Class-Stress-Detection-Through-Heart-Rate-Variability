@@ -1,0 +1,44 @@
+Service Provider
+
+Login,
+Train & Test Stroke Datasets, 
+View Healthcare Datasets Trained and Tested Accuracy in Bar Chart, 
+View Healthcare Datasets Trained and Tested Accuracy Results, 
+View Stress Prediction Type View Stress Prediction Type Ratio, 
+Download Predicted Data Sets, 
+View Stress Prediction Type Ratio Results, 
+View All Remote Users.
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT STRESS PREDICTION TYPE,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+FID,	
+MEAN_RR,	
+MEDIAN_RR,	
+SDRR,	
+RMSSD,	
+SDSD,	
+SDRR_RMSSD,	
+HR,	
+VLF,	
+VLF_PCT,	
+LF,	
+LF_PCT,	
+LF_NU,	
+HF,	
+HF_PCT,	
+HF_NU,	
+TP,	
+LF_HF,	
+HF_LF,	
+sampen,	
+higuci,
+Prediction.
