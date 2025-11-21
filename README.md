@@ -148,14 +148,12 @@ pip install -r requirements.txt
         <br /><sub><b>Harsha Vardhan</b></sub>
       </a>
     </td>
-
     <td align="center">
       <a href="https://github.com/MOhanNaidu04">
         <img src="https://github.com/MOhanNaidu04.png" width="100px;" alt="Mohan"/>
         <br /><sub><b>Mohan Naidu</b></sub>
       </a>
     </td>
-
     <td align="center">
       <a href="https://github.com/sreevamsee">
         <img src="https://github.com/sreevamsee.png" width="100px;" alt="Srivamshi"/>
